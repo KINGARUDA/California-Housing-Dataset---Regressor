@@ -11,14 +11,14 @@ This project uses the **California Housing Prices** dataset from Kaggle to build
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Regression Models: Gradient Boosting Regressor, Random Forest Regressor, Decision Tree Regressor, Ridge , Lasso
+- Models: Gradient Boosting Regressor, Random Forest Regressor, Decision Tree Regressor, Ridge , Lasso
 
 ## 🔍 Key Steps
 1. Data Cleaning & Preprocessing
-2. Feature Scaling (StandardScaler)
-3. Exploratory Data Analysis (EDA)
-4. Model Training 
-5. Evaluation ( R² Score)
+2. Exploratory Data Analysis (EDA)
+3. Building a Pipeline for Data Transformation and Scaling
+4. Model Training using GridSearchCV
+5. Evaluation (R² Score)
 
 ## 📈 Visualizations
 - ### 🔹 Correlation Heatmap
