@@ -17,7 +17,7 @@ This project uses the **California Housing Prices** dataset from Kaggle to build
 1. Data Cleaning & Preprocessing
 2. Exploratory Data Analysis (EDA)
 3. Building a Pipeline for Data Transformation and Scaling
-4. Model Training using GridSearchCV
+4. Finding the Best Model and Hyperparameters using GridSearchCV
 5. Evaluation (R² Score)
 
 ## 📈 Visualizations
